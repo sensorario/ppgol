@@ -1,0 +1,29 @@
+{
+    "name": "sensorario/ppgol",
+    "description": "Ping Pong Game Of Life",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simone Gentili",
+            "email": "sensorario@gmail.com"
+        },
+        {
+            "name": "Franesco Camillini",
+            "email": "francesco.camillini@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": ["src", "tests/unit"]
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5@dev"
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
