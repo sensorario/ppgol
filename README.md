@@ -16,6 +16,8 @@ make test
 
 ## Rules
 
+All pair must be added as collaborators.
+
  1. the dev take the control
  2. same dev create red test
  3. pair swap
