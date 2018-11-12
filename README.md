@@ -16,21 +16,26 @@ make test
 
 ## Rules
 
+### Discussion phase
+
+ 0. a dev open issue of missing features;
+ 1. all pair discuss about issue and refine it;
+
 ### Test Phase
 
- 1. the dev take the control;
- 2. same dev create red test;
- 3. same dev open pull request;
- 4. assign review to his/her pair;
+ 2. the dev take new issue;
+ 3. same dev create red test;
+ 4. same dev open pull request;
+ 5. assign review to his/her pair;
 
 ### Code Phase
 
- 5. dev make test green;
- 6. dev add pair as reviewer;
+ 6. dev make test green;
+ 7. dev add pair as reviewer;
 
 ### Review Phase
 
- 7. reviewer approve or request changes;
- 8. coder apply changes until reviewer approval;
- 9. reviewer merge code and restart from step 2;
+ 8. reviewer approve or request changes;
+ 9. coder apply changes until reviewer approval;
+ 10. reviewer merge code and restart from step 2;
 
