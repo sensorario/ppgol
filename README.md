@@ -39,3 +39,15 @@ make test
  9. coder apply changes until reviewer approval;
  10. reviewer merge code and restart from step 2;
 
+### Resume
+
+| player A | player B|
+|----|----|
+| take open issue | |
+| write test | |
+| apen pull request | |
+|  | write code |
+| approve | |
+| | merge pull request |
+
+swap pair and restart
