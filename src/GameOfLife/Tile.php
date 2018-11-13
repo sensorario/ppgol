@@ -4,11 +4,18 @@ namespace GameOfLife;
 
 class Tile
 {
-    private $status = 'dead';
+    const STATUS_DEAD = 'dead';
+    const STATUS_ALIVE = 'alice';
+    private $status;
 
-    public static function create()
+    public function __construct($status)
     {
-        return new self();
+        $this->status = $status;
+    }
+
+    public static function create($status)
+    {
+        return new self($status);
     }
 
     public function status()
