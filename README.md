@@ -48,6 +48,6 @@ make test
 | apen pull request | |
 |  | write code |
 | approve | |
-| | merge pull request |
+| merge pull request | |
 
 swap pair and restart
