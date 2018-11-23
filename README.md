@@ -20,9 +20,10 @@ make test
 |---|---|
 | open the issue and start the discussion | |
 | open pull request with documentation about the issue | |
+| complete phase assigning pull request to B| |
 | | write red test that respect decision made during discussion |
-| | complete phase with a comment in pull request |
+| | complete phase assigning pull request to A |
 | write code until tests are green | |
-| complete phase requiring review to the opponent | |
-| | approve pull request|
+| complete phase requiring review to B | |
+| | approve pull request to A |
 | merge pull reuqest | |
