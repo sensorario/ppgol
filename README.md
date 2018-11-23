@@ -18,7 +18,7 @@ make test
 
 | A | B |
 |---|---|
-| open the issue and start the discussion | |
+| open the issue and start the discussion | open the issue and start the discussion |
 | open pull request with documentation about the issue | |
 | complete phase assigning pull request to B| |
 | | write red test that respect decision made during discussion |
