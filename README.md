@@ -25,5 +25,5 @@ make test
 | | complete phase assigning pull request to A |
 | write code until tests are green | |
 | complete phase requiring review to B | |
-| | approve pull request to A |
+| | cmplete phase approving pull request to A |
 | merge pull reuqest | |
